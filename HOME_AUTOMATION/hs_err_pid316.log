@@ -1,0 +1,21 @@
+#
+# A fatal error has been detected by the Java Runtime Environment:
+#
+#  EXCEPTION_ACCESS_VIOLATION (0xc0000005) at pc=0x0299bd60, pid=316, tid=0x00001658
+#
+# JRE version: Java(TM) SE Runtime Environment (8.0_191-b12) (build 1.8.0_191-b12)
+# Java VM: Java HotSpot(TM) Client VM (25.191-b12 mixed mode windows-x86 )
+# Problematic frame:
+# J 900  java.lang.Throwable.fillInStackTrace(I)Ljava/lang/Throwable; (0 bytes) @ 0x0299bd60 [0x0299bd50+0x10]
+#
+# Failed to write core dump. Minidumps are not enabled by default on client versions of Windows
+#
+
+#   
+#
+
+
+ daemon []
+
+
+ 
